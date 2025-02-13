@@ -27,9 +27,9 @@ Se diseñó un dashboard interactivo con métricas esenciales para la gestión d
 
 ## 🧠 Fase 3: Análisis de Reglas de Asociación con Machine Learning (Market Basket Analysis)
 
-Mediante algoritmos de reglas de asociación, se analizaron patrones de compra para identificar productos comprados en conjunto con alta probabilidad.
+Mediante algoritmos de reglas de asociación en [Python](Pyhton/MarketBasketAnalysis_colab.ipynb), se analizaron patrones de compra para identificar productos comprados en conjunto con alta probabilidad.
 
-- ✔ **Cálculo de Lift, Soporte y Confianza** para determinar la relevancia de las reglas.  
+- ✔ **Cálculo de Lift, Soporte y Confianza** para determinar la relevancia de las reglas. El dataset se muestra en el archivo [.csv](Excel/reglas.csv)
 - ✔ **Dashboard de Market Basket Analysis en Power BI** con:  
   - Número total de reglas generadas.  
   - Confianza y Lift medio de las reglas.  
@@ -38,3 +38,5 @@ Mediante algoritmos de reglas de asociación, se analizaron patrones de compra p
 ## 🚀 Impacto y Aplicaciones  
 
 Este proyecto combina **análisis financiero, visualización de datos y machine learning** para ofrecer una visión integral del negocio, proporcionando información clave para mejorar la rentabilidad del supermercado.
+
+- 🔹 **Mira el dashboard** en el siguiente [enlace](https://app.powerbi.com/view?r=eyJrIjoiNzhhZmNiZjEtNmY3My00NTZlLThlNWYtY2YwODM5NjMwYzM3IiwidCI6ImRkMzgzNTFmLTkzZTUtNDQ3Mi05OWE4LWYzYTQ1NDM2NTBmNiIsImMiOjR9)
