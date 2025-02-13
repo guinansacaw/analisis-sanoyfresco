@@ -4,7 +4,7 @@ Este proyecto aborda el análisis de datos de un supermercado mediante herramien
 
 ## 🔹 Fase 1: Exploración y Análisis Financiero
 
-Se realizaron consultas (SQL)[analisis-sanoyfresco/SQL/consultas.sql] sobre una base de datos del supermercado para obtener información clave, incluyendo:
+Se realizaron consultas [SQL](analisis-sanoyfresco/SQL/consultas.sql) sobre una base de datos del supermercado para obtener información clave, incluyendo:
 
 - ✔ **Ingresos Totales:** 39,85 millones de euros.  
 - ✔ **Evolución de Ventas Mensuales:** Identificación de una clara tendencia descendente, útil para la planificación de estrategias comerciales.  
