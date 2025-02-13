@@ -4,13 +4,15 @@ Este proyecto aborda el análisis de datos de un supermercado mediante herramien
 
 ## 🔹 Fase 1: Exploración y Análisis Financiero
 
-Se realizaron consultas [SQL](SQL/consultas.sql) sobre una base de datos del supermercado para obtener información clave (se muestra en el archivo [Excel](Excel/Analisis de insights.xlsx)), incluyendo:
+Se realizaron consultas [SQL](SQL/consultas.sql) sobre una base de datos del supermercado para obtener información clave, incluyendo:
 
 - ✔ **Ingresos Totales:** 39,85 millones de euros.  
 - ✔ **Evolución de Ventas Mensuales:** Identificación de una clara tendencia descendente, útil para la planificación de estrategias comerciales.  
 - ✔ **Rendimiento por Departamento y Sección:** Detección de las áreas de negocio más rentables.  
 - ✔ **Productos Más Vendidos y de Mayor Ingreso:** Priorización de artículos clave para estrategias de stock y marketing.  
-- ✔ **Comportamiento de Clientes:** Análisis de clientes recurrentes, ticket medio y cantidad total de pedidos.  
+- ✔ **Comportamiento de Clientes:** Análisis de clientes recurrentes, ticket medio y cantidad total de pedidos.
+
+La información clave se resume en el archivo [Excel](Excel/Analisis de insights.xlsx) con el resumen.
 
 ## 📊 Fase 2: Creación de Dashboards en Power BI
 
